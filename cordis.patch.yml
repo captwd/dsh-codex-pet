@@ -1,0 +1,4 @@
+# Installs the bundled pet into $DSH_HOME/codex-pet/pets on first activation.
+- insert:
+    - id: dsh-pet-deepseek-whale
+      name: dsh-pet-deepseek-whale

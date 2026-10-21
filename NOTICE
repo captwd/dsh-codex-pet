@@ -1,0 +1,19 @@
+DeepSeek 鲸鱼娘 pet pack for DeepSeek Harness
+===========================================
+
+Character artwork, animation frames and the compiled spritesheet in
+`pets/deepseek-whale-v2/` are by YunYueSama.
+
+    Author:  YunYueSama
+    Repo:    https://github.com/YunYueSama/codex-deepseek-pet
+
+Licensed under the "大肥鱼项目署名许可 1.0" (Big Fat Fish Attribution
+License 1.0). See LICENSE for the full text and ASSET_LICENSE.md for the
+boundaries of what that license does and does not cover.
+
+The plugin wrapper, installer and documentation in this repository
+(lib/, scripts/, READMEs) are original work released under the same terms.
+
+This is a community package. It is not an official DeepSeek or OpenAI
+release, and it does not include or redistribute any Codex or DeepSeek
+application code.

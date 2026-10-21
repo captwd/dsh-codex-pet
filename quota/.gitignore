@@ -1,0 +1,7 @@
+node_modules/
+*.log
+# runtime output of scripts/install-desktop.mjs
+backups/
+artifacts/
+.DS_Store
+Thumbs.db

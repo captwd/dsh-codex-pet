@@ -1,0 +1,7 @@
+# dsh-pet-quota-desktop bundle patch.
+#
+# One host row mounts the plugin; the browser half is discovered from
+# package.json#dsh.client and served at /plugins/dsh-pet-quota-desktop/client.js
+- insert:
+    - id: pet-quota-desktop
+      name: dsh-pet-quota-desktop

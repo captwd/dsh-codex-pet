@@ -1,0 +1,7 @@
+node_modules/
+*.log
+# runtime output of quota/scripts/install-desktop.mjs
+quota/backups/
+quota/artifacts/
+.DS_Store
+Thumbs.db
